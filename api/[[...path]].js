@@ -4,6 +4,11 @@
 import serverEntry from '../dist/server/index.js';
 import fs from 'node:fs/promises';
 import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const repoRoot = path.resolve(__dirname, '..');
 
 function getHeader(req, name) {
   // Vercel/Node lowercases headers.
@@ -48,7 +53,7 @@ async function tryServeClientAsset(req, res, pathname) {
   // Prevent path traversal.
   if (!rel || rel.includes('..') || rel.includes('\\') || rel.startsWith('/')) return false;
 
-  const assetPath = path.resolve(process.cwd(), 'dist', 'client', 'assets', rel);
+  const assetPath = path.resolve(repoRoot, 'dist', 'client', 'assets', rel);
 
   try {
     const data = await fs.readFile(assetPath);
