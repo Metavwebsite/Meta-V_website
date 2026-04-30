@@ -21,7 +21,7 @@ export const materialSources: MaterialSource[] = [
     "title": "Aspirateurs et Nettoyeurs",
     "slug": "aspirateurs-et-nettoyeurs",
     "jsonUrl": "/Matériel/Einhell/ASPIRATEURS ET NETTOYEURS/aspirateurs_nettoyeurs_einhell_2026.json",
-    "photoDir": "/photo/Einhell/ASPIRATEURS ET NETTOYEURS",
+    "photoDir": "/photo/EINHELL/ASPIRATEURS ET NETTOYEURS",
     "categoryId": "cat-aspirateurs-et-nettoyeurs-einhell"
   },
   {
@@ -41,7 +41,7 @@ export const materialSources: MaterialSource[] = [
     "title": "Autres machines",
     "slug": "autres-machines",
     "jsonUrl": "/Matériel/Einhell/AUTRES MACHINES/autres_machines_einhell_2026.json",
-    "photoDir": "/photo/Einhell/AUTRES MACHINES",
+    "photoDir": "/photo/EINHELL/AUTRES MACHINES",
     "categoryId": "cat-autres-machines-einhell"
   },
   {
@@ -51,7 +51,7 @@ export const materialSources: MaterialSource[] = [
     "title": "Batteries et chargeurs",
     "slug": "batteries-et-chargeurs",
     "jsonUrl": "/Matériel/Einhell/BATTERIES ET CHARGEURS/batteries_chargeurs_einhell_2026.json",
-    "photoDir": "/photo/Einhell/BATTERIES ET CHARGEURS",
+    "photoDir": "/photo/EINHELL/BATTERIES ET CHARGEURS",
     "categoryId": "cat-batteries-et-chargeurs-einhell"
   },
   {
@@ -70,7 +70,7 @@ export const materialSources: MaterialSource[] = [
     "title": "Compresseurs",
     "slug": "compresseurs",
     "jsonUrl": "/Matériel/Einhell/COMPRESSEURS/compresseurs_einhell_2026.json",
-    "photoDir": "/photo/Einhell/COMPRESSEURS",
+    "photoDir": "/photo/EINHELL/COMPRESSEURS",
     "categoryId": "cat-compresseurs-einhell"
   },
   {
@@ -139,7 +139,7 @@ export const materialSources: MaterialSource[] = [
     "title": "Groupes Electrogènes",
     "slug": "groupes-electrogenes",
     "jsonUrl": "/Matériel/Einhell/GROUPES ELECTROGENES/groupes_electrogenes_einhell_2026.json",
-    "photoDir": "/photo/Einhell/GROUPES ELECTROGENES",
+    "photoDir": "/photo/EINHELL/GROUPES ELECTROGENES",
     "categoryId": "cat-groupes-electrogenes-einhell"
   },
   {
@@ -185,7 +185,7 @@ export const materialSources: MaterialSource[] = [
     "title": "Marteaux Perforateurs et Burineurs",
     "slug": "marteaux-perforateurs-et-burineurs",
     "jsonUrl": "/Matériel/Einhell/MARTEAUX PERFORATEURS ET BURINEURS/marteaux_perforateurs_burineurs_einhell_2026.json",
-    "photoDir": "/photo/Einhell/MARTEAUX PERFORATEURS ET BURINEURS",
+    "photoDir": "/photo/EINHELL/MARTEAUX PERFORATEURS ET BURINEURS",
     "categoryId": "cat-marteaux-perforateurs-et-burineurs-einhell"
   },
   {
@@ -195,7 +195,7 @@ export const materialSources: MaterialSource[] = [
     "title": "Matériel de jardin",
     "slug": "materiel-de-jardin",
     "jsonUrl": "/Matériel/Einhell/MATERIEL DE JARDIN/materiel_jardin_einhell_2026.json",
-    "photoDir": "/photo/Einhell/MATERIEL DE JARDIN",
+    "photoDir": "/photo/EINHELL/MATERIEL DE JARDIN",
     "categoryId": "cat-materiel-de-jardin-einhell"
   },
   {
@@ -205,7 +205,7 @@ export const materialSources: MaterialSource[] = [
     "title": "Meuleuses et Ponceuses",
     "slug": "meuleuses-et-ponceuses",
     "jsonUrl": "/Matériel/Einhell/MEULEUSES ET PONCEUSES/meuleuses_ponceuses_einhell_2026.json",
-    "photoDir": "/photo/Einhell/MEULEUSES ET PONCEUSES",
+    "photoDir": "/photo/EINHELL/MEULEUSES ET PONCEUSES",
     "categoryId": "cat-meuleuses-et-ponceuses-einhell"
   },
   {
@@ -224,7 +224,7 @@ export const materialSources: MaterialSource[] = [
     "title": "Perceuses Visseuses et Boulonneuses",
     "slug": "perceuses-visseuses-et-boulonneuses",
     "jsonUrl": "/Matériel/Einhell/PERCEUSES VISSEUSES ET BOULONNEUSES/perceuses_visseuses_boulonneuses_einhell_2026.json",
-    "photoDir": "/photo/Einhell/PERCEUSES VISSEUSES ET BOULONNEUSES",
+    "photoDir": "/photo/EINHELL/PERCEUSES VISSEUSES ET BOULONNEUSES",
     "categoryId": "cat-perceuses-visseuses-et-boulonneuses-einhell"
   },
   {
@@ -244,7 +244,7 @@ export const materialSources: MaterialSource[] = [
     "title": "Scies et Tronçonneuses",
     "slug": "scies-et-tronconneuses",
     "jsonUrl": "/Matériel/Einhell/SCIES ET TRONCONNEUSES/scies_tronconneuses_einhell_2026.json",
-    "photoDir": "/photo/Einhell/SCIES ET TRONCONNEUSES",
+    "photoDir": "/photo/EINHELL/SCIES ET TRONCONNEUSES",
     "categoryId": "cat-scies-et-tronconneuses-einhell"
   },
   {

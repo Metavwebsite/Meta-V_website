@@ -1,0 +1,867 @@
+[
+  {
+    "url": "",
+    "name": "TC-AC 190/24/8",
+    "subtitle": "Compresseur 24L 8 bar 1100W",
+    "main_image_url": "",
+    "image_urls": [],
+    "categories": [
+      "Outillage",
+      "Compresseurs",
+      "Compresseurs à huile"
+    ],
+    "tags": [
+      "24L",
+      "8 bar",
+      "1100W",
+      "Avec huile",
+      "Roues"
+    ],
+    "description_text": "Compresseur 1100W avec réservoir de 24 litres. Nombreuses utilisations réglables jusqu'à 8 bar grâce au réducteur de pression. Clapet anti-retour, soupape de sécurité. Roues en caoutchouc et poignée de transport pour faciliter le déplacement. Manomètre et raccord rapide pour une pression de travail régulée. La lubrification garantit une longue durée de vie. La cuve de 24 l offre des réserves d'air suffisantes. Une vis de vidange permet un entretien facile. Pied amortissant les vibrations pour se tenir debout en toute sécurité.",
+    "bullet_points": [
+      "Nombreuses utilisations réglables jusqu'à 8 bar grâce au réducteur de pression",
+      "Clapet anti-retour, soupape de sécurité",
+      "Roues en caoutchouc et poignée de transport pour faciliter le déplacement",
+      "Manomètre et raccord rapide pour une pression de travail régulée",
+      "La lubrification garantit une longue durée de vie",
+      "La cuve de 24 l offre des réserves d'air suffisantes",
+      "Une vis de vidange permet un entretien facile",
+      "Pied amortissant les vibrations pour se tenir debout en toute sécurité"
+    ],
+    "technical_sheet": {
+      "type": "inline",
+      "pdf_url": "",
+      "content_text": "",
+      "technical_specs": [
+        {
+          "label": "Référence",
+          "unit": "",
+          "value": "4007325"
+        },
+        {
+          "label": "EAN",
+          "unit": "",
+          "value": "4006825610635"
+        },
+        {
+          "label": "Durée de la puissance S2",
+          "unit": "min",
+          "value": "15"
+        },
+        {
+          "label": "Débit d'air à 0 bar",
+          "unit": "l/min",
+          "value": "110"
+        },
+        {
+          "label": "Débit d'air à 4 bar",
+          "unit": "l/min",
+          "value": "75"
+        },
+        {
+          "label": "Débit d'air à 7 bar",
+          "unit": "l/min",
+          "value": "55"
+        },
+        {
+          "label": "Modèle de moteur",
+          "unit": "",
+          "value": "Moteur à induction"
+        },
+        {
+          "label": "Niveau de pression acoustique",
+          "unit": "dB (A)",
+          "value": "75"
+        },
+        {
+          "label": "Puissance du moteur",
+          "unit": "W",
+          "value": "1100 S1 | 1500 S2"
+        },
+        {
+          "label": "Nombres de cylindres",
+          "unit": "pcs",
+          "value": "1"
+        },
+        {
+          "label": "Poids du produit",
+          "unit": "Kg",
+          "value": "20.78"
+        },
+        {
+          "label": "Pression de service max.",
+          "unit": "bar",
+          "value": "8"
+        },
+        {
+          "label": "Puissance d'aspiration",
+          "unit": "l/min",
+          "value": "165"
+        },
+        {
+          "label": "Régime de la pompe",
+          "unit": "tr/min",
+          "value": "2850"
+        },
+        {
+          "label": "Régime moteur",
+          "unit": "tr/min",
+          "value": "2850"
+        },
+        {
+          "label": "Volume du réservoir",
+          "unit": "l",
+          "value": "24"
+        }
+      ]
+    },
+    "related_products": []
+  },
+  {
+    "url": "",
+    "name": "TC-AC 190/24/8 I OF",
+    "subtitle": "Compresseur 24L 8 bar sans huile 1100W",
+    "main_image_url": "",
+    "image_urls": [],
+    "categories": [
+      "Outillage",
+      "Compresseurs",
+      "Compresseurs sans huile"
+    ],
+    "tags": [
+      "24L",
+      "8 bar",
+      "Sans huile",
+      "1100W",
+      "Roues",
+      "Garantie 10 ans"
+    ],
+    "description_text": "Compresseur puissant à moteur à induction 1100W. Pompe sans huile pour un entretien réduit. Régulateur de pression pour une pression de service constante (max. 8 bar). Manomètre pour une pression de service régulée. Socle anti-vibrations assurant une stabilité optimale. Entretien facile grâce à la vanne de purge. Transport aisé grâce à la poignée et aux roues. Garantie de 10 ans contre la corrosion du réservoir.",
+    "bullet_points": [
+      "Compresseur puissant à moteur à induction",
+      "Pompe sans huile pour un entretien réduit",
+      "Régulateur de pression pour une pression de service constante (max. 8 bar)",
+      "Manomètre pour une pression de service régulée",
+      "Socle anti-vibrations assurant une stabilité optimale",
+      "Entretien facile grâce à la vanne de purge",
+      "Transport aisé grâce à la poignée et aux roues",
+      "Garantie de 10 ans contre la corrosion du réservoir"
+    ],
+    "technical_sheet": {
+      "type": "inline",
+      "pdf_url": "",
+      "content_text": "",
+      "technical_specs": [
+        {
+          "label": "Référence",
+          "unit": "",
+          "value": "4007375"
+        },
+        {
+          "label": "EAN",
+          "unit": "",
+          "value": "4006825684025"
+        },
+        {
+          "label": "Pression de service maximale",
+          "unit": "bar",
+          "value": "8"
+        },
+        {
+          "label": "Vitesse du moteur",
+          "unit": "tr/min",
+          "value": "2850"
+        },
+        {
+          "label": "Type de moteur",
+          "unit": "",
+          "value": "Moteur à induction"
+        },
+        {
+          "label": "Nombre de cylindres",
+          "unit": "",
+          "value": "1"
+        },
+        {
+          "label": "Débit à 0 bar",
+          "unit": "l/min",
+          "value": "110"
+        },
+        {
+          "label": "Débit à 4 bar",
+          "unit": "l/min",
+          "value": "75"
+        },
+        {
+          "label": "Débit à 7 bar",
+          "unit": "l/min",
+          "value": "55"
+        },
+        {
+          "label": "Poids du produit",
+          "unit": "kg",
+          "value": "21.5"
+        },
+        {
+          "label": "Vitesse de la pompe",
+          "unit": "tr/min",
+          "value": "2850"
+        },
+        {
+          "label": "Niveau de pression acoustique",
+          "unit": "dB(A)",
+          "value": "76"
+        },
+        {
+          "label": "Puissance d'aspiration",
+          "unit": "l/min",
+          "value": "190"
+        },
+        {
+          "label": "Volume du réservoir",
+          "unit": "l",
+          "value": "24"
+        }
+      ]
+    },
+    "related_products": []
+  },
+  {
+    "url": "",
+    "name": "TC-AC 270/50/8",
+    "subtitle": "Compresseur 50L 8 bar 1800W",
+    "main_image_url": "",
+    "image_urls": [],
+    "categories": [
+      "Outillage",
+      "Compresseurs",
+      "Compresseurs à huile"
+    ],
+    "tags": [
+      "50L",
+      "8 bar",
+      "1800W",
+      "Avec huile",
+      "Roues"
+    ],
+    "description_text": "Compresseur 1800W avec réservoir de 50 litres. Réservoir de 50 L offrant des réserves d'air suffisantes. Lubrification à l'huile assurant la longévité. Nombreuses applications jusqu'à 8 bar par réglage avec le réducteur de pression. Manomètre et raccord rapide pour une pression de fonctionnement régulée. Grand manomètre pour la pression non régulée de la cuve. Roues et poignée facilitant le transport. Pied d'appui anti-vibration assurant une bonne stabilité. Clapet anti-retour et soupape de sécurité pour une utilisation sûre. Robinet de vidange facilitant l'entretien.",
+    "bullet_points": [
+      "Réservoir de 50 L offrant des réserves d'air suffisantes",
+      "Lubrification à l'huile assurant la longévité",
+      "Nombreuses applications jusqu'à 8 bar par réglage avec le réducteur de pression",
+      "Manomètre et raccord rapide pour une pression de fonctionnement régulée",
+      "Grand manomètre pour la pression non régulée de la cuve",
+      "Roues et poignée facilitant le transport",
+      "Pied d'appui anti-vibration assurant une bonne stabilité",
+      "Clapet anti-retour et soupape de sécurité pour une utilisation sûre",
+      "Robinet de vidange facilitant l'entretien"
+    ],
+    "technical_sheet": {
+      "type": "inline",
+      "pdf_url": "",
+      "content_text": "",
+      "technical_specs": [
+        {
+          "label": "Référence",
+          "unit": "",
+          "value": "4007360"
+        },
+        {
+          "label": "EAN",
+          "unit": "",
+          "value": "4006825665628"
+        },
+        {
+          "label": "Débit d'air à 0 bar",
+          "unit": "l/min",
+          "value": "140"
+        },
+        {
+          "label": "Débit d'air à 4 bar",
+          "unit": "l/min",
+          "value": "125"
+        },
+        {
+          "label": "Débit d'air à 7 bar",
+          "unit": "l/min",
+          "value": "100"
+        },
+        {
+          "label": "Modèle de moteur",
+          "unit": "",
+          "value": "Moteur à induction"
+        },
+        {
+          "label": "Niveau de pression acoustique",
+          "unit": "dB (A)",
+          "value": "75"
+        },
+        {
+          "label": "Puissance du moteur",
+          "unit": "W",
+          "value": "1800 S1"
+        },
+        {
+          "label": "Nombres de cylindres",
+          "unit": "pcs",
+          "value": "1"
+        },
+        {
+          "label": "Poids du produit",
+          "unit": "Kg",
+          "value": "30.35"
+        },
+        {
+          "label": "Pression de service max.",
+          "unit": "bar",
+          "value": "8"
+        },
+        {
+          "label": "Puissance d'aspiration",
+          "unit": "l/min",
+          "value": "270"
+        },
+        {
+          "label": "Régime de la pompe",
+          "unit": "tr/min",
+          "value": "2850"
+        },
+        {
+          "label": "Régime moteur",
+          "unit": "tr/min",
+          "value": "2850"
+        },
+        {
+          "label": "Volume du réservoir",
+          "unit": "l",
+          "value": "50"
+        }
+      ]
+    },
+    "related_products": []
+  },
+  {
+    "url": "",
+    "name": "TC-AC 270/50/10",
+    "subtitle": "Compresseur 50L 10 bar 1800W",
+    "main_image_url": "",
+    "image_urls": [],
+    "categories": [
+      "Outillage",
+      "Compresseurs",
+      "Compresseurs à huile"
+    ],
+    "tags": [
+      "50L",
+      "10 bar",
+      "1800W",
+      "Avec huile",
+      "Roues",
+      "Garantie 10 ans"
+    ],
+    "description_text": "Puissant compresseur avec moteur à induction 1800W. Compresseur lubrifié et puissant. Grande cuve de 50 L pour des réserves d'air suffisantes. Garantie 10 ans contre la corrosion de la cuve. Réducteur de pression pour une pression de service uniforme jusqu'à 10 bar max. Manomètre pour la pression de service régulée. Manomètre pour la pression non régulée de la cuve. Pied d'appui antivibrations assurant une bonne stabilité. Poignée et roues pour un déplacement simple. Vis de purge facilitant la maintenance.",
+    "bullet_points": [
+      "Puissant compresseur avec moteur à induction",
+      "Compresseur lubrifié et puissant",
+      "Grande cuve de 50 L pour des réserves d'air suffisantes",
+      "Garantie 10 ans contre la corrosion de la cuve",
+      "Réducteur de pression pour une pression de service uniforme jusqu'à 10 bar max.",
+      "Manomètre pour la pression de service régulée",
+      "Manomètre pour la pression non régulée de la cuve",
+      "Pied d'appui antivibrations assurant une bonne stabilité",
+      "Poignée et roues pour un déplacement simple",
+      "Vis de purge facilitant la maintenance"
+    ],
+    "technical_sheet": {
+      "type": "inline",
+      "pdf_url": "",
+      "content_text": "",
+      "technical_specs": [
+        {
+          "label": "Référence",
+          "unit": "",
+          "value": "4007361"
+        },
+        {
+          "label": "EAN",
+          "unit": "",
+          "value": "4006825683974"
+        },
+        {
+          "label": "Débit d'air à 0 bar",
+          "unit": "l/min",
+          "value": "140"
+        },
+        {
+          "label": "Débit d'air à 4 bar",
+          "unit": "l/min",
+          "value": "125"
+        },
+        {
+          "label": "Débit d'air à 7 bar",
+          "unit": "l/min",
+          "value": "100"
+        },
+        {
+          "label": "Modèle de moteur",
+          "unit": "",
+          "value": "A induction"
+        },
+        {
+          "label": "Niveau de pression acoustique",
+          "unit": "dB (A)",
+          "value": "75"
+        },
+        {
+          "label": "Nombres de cylindres",
+          "unit": "pcs",
+          "value": "1"
+        },
+        {
+          "label": "Poids du produit",
+          "unit": "Kg",
+          "value": "30.35"
+        },
+        {
+          "label": "Pression de service max.",
+          "unit": "bar",
+          "value": "10"
+        },
+        {
+          "label": "Puissance d'aspiration",
+          "unit": "l/min",
+          "value": "270"
+        },
+        {
+          "label": "Régime de la pompe",
+          "unit": "tr/min",
+          "value": "2850"
+        },
+        {
+          "label": "Régime moteur",
+          "unit": "tr/min",
+          "value": "2850"
+        },
+        {
+          "label": "Volume du réservoir",
+          "unit": "l",
+          "value": "50"
+        }
+      ]
+    },
+    "related_products": []
+  },
+  {
+    "url": "",
+    "name": "TE-AC 270/50 Silent +",
+    "subtitle": "Compresseur silencieux 50L 8 bar 1500W",
+    "main_image_url": "",
+    "image_urls": [],
+    "categories": [
+      "Outillage",
+      "Compresseurs",
+      "Compresseurs silencieux"
+    ],
+    "tags": [
+      "50L",
+      "8 bar",
+      "1500W",
+      "54 dB",
+      "Sans huile",
+      "Silencieux"
+    ],
+    "description_text": "Compresseur silencieux à faible niveau sonore de 54 dB (pression acoustique LpA). Beaucoup plus silencieux que les compresseurs courants de même puissance. Moteur sans huile et sans entretien pour une maintenance minimale. Réservoir de 50 litres offrant une réserve d'air suffisante. Réglage de la pression jusqu'à 8 bar au moyen d'un réducteur de pression pour de nombreuses applications. Manomètre et raccord rapide pour la pression de fonctionnement régulée. Manomètre et raccord rapide pour la pression non régulée de la cuve. Grandes roues et arceau de transport facilitant le déplacement. Pieds d'appui amortissant les vibrations et assurant une bonne stabilité. Protection de l'utilisateur grâce à une soupape de sécurité. Robinet de vidange facilitant l'entretien.",
+    "bullet_points": [
+      "Compresseur silencieux à faible niveau sonore de 54 dB",
+      "Beaucoup plus silencieux que les compresseurs courants de même puissance",
+      "Moteur sans huile et sans entretien pour une maintenance minimale",
+      "Réservoir de 50 litres offrant une réserve d'air suffisante",
+      "Réglage de la pression jusqu'à 8 bar au moyen d'un réducteur de pression",
+      "Manomètre et raccord rapide pour la pression de fonctionnement régulée",
+      "Manomètre et raccord rapide pour la pression non régulée de la cuve",
+      "Grandes roues et arceau de transport facilitant le déplacement",
+      "Pieds d'appui amortissant les vibrations et assurant une bonne stabilité",
+      "Protection de l'utilisateur grâce à une soupape de sécurité",
+      "Robinet de vidange facilitant l'entretien"
+    ],
+    "technical_sheet": {
+      "type": "inline",
+      "pdf_url": "",
+      "content_text": "",
+      "technical_specs": [
+        {
+          "label": "Référence",
+          "unit": "",
+          "value": "4020620"
+        },
+        {
+          "label": "EAN",
+          "unit": "",
+          "value": "4006825650679"
+        },
+        {
+          "label": "Débit d'air à 0 bar",
+          "unit": "l/min",
+          "value": "204"
+        },
+        {
+          "label": "Débit d'air à 4 bar",
+          "unit": "l/min",
+          "value": "132"
+        },
+        {
+          "label": "Débit d'air à 7 bar",
+          "unit": "l/min",
+          "value": "93"
+        },
+        {
+          "label": "Modèle de moteur",
+          "unit": "",
+          "value": "Moteur à induction"
+        },
+        {
+          "label": "Niveau de pression acoustique",
+          "unit": "dB (A)",
+          "value": "54"
+        },
+        {
+          "label": "Puissance du moteur",
+          "unit": "W",
+          "value": "1500"
+        },
+        {
+          "label": "Nombres de cylindres",
+          "unit": "pcs",
+          "value": "4"
+        },
+        {
+          "label": "Poids du produit",
+          "unit": "Kg",
+          "value": "42.6"
+        },
+        {
+          "label": "Pression de service max.",
+          "unit": "bar",
+          "value": "8"
+        },
+        {
+          "label": "Puissance d'aspiration",
+          "unit": "l/min",
+          "value": "270"
+        },
+        {
+          "label": "Régime de la pompe",
+          "unit": "tr/min",
+          "value": "1450"
+        },
+        {
+          "label": "Régime moteur",
+          "unit": "tr/min",
+          "value": "1450"
+        },
+        {
+          "label": "Volume du réservoir",
+          "unit": "l",
+          "value": "50"
+        }
+      ]
+    },
+    "related_products": []
+  },
+  {
+    "url": "",
+    "name": "TE-AC 430/90/10",
+    "subtitle": "Compresseur 90L 10 bar à courroie 3000W",
+    "main_image_url": "",
+    "image_urls": [],
+    "categories": [
+      "Outillage",
+      "Compresseurs",
+      "Compresseurs à courroie"
+    ],
+    "tags": [
+      "90L",
+      "10 bar",
+      "3000W",
+      "Courroie",
+      "Bi-cylindre",
+      "Avec huile"
+    ],
+    "description_text": "Compresseur puissant à entraînement par courroie trapézoïdale pour un faible régime et un fonctionnement silencieux. Pompe lubrifiée à l'huile et composants haute qualité pour une grande longévité. Contrôle du niveau d'huile au moyen d'un verre de regard. Le réservoir de 90 litres offre une réserve d'air suffisante pour une utilisation prolongée. Distribution d'air élevée et longue durée de vie grâce au groupe compresseur double. Réglage de la pression jusqu'à 10 bar au moyen d'un réducteur de pression. Manomètre et raccord rapide pour la pression de fonctionnement régulée et la pression non régulée de la cuve. Clapet anti-retour et soupape de sécurité. Robinet de vidange facilitant l'entretien.",
+    "bullet_points": [
+      "Compresseur puissant à entraînement par courroie trapézoïdale pour un faible régime et un fonctionnement silencieux",
+      "Pompe lubrifiée à l'huile et composants haute qualité pour une grande longévité",
+      "Contrôle du niveau d'huile au moyen d'un verre de regard",
+      "Le réservoir de 90 litres offre une réserve d'air suffisante pour une utilisation prolongée",
+      "Distribution d'air élevée et longue durée de vie grâce au groupe compresseur double",
+      "Réglage de la pression jusqu'à 10 bar au moyen d'un réducteur de pression",
+      "Manomètre et raccord rapide pour la pression de fonctionnement régulée et la pression non régulée de la cuve",
+      "Clapet anti-retour et soupape de sécurité",
+      "Robinet de vidange facilitant l'entretien"
+    ],
+    "technical_sheet": {
+      "type": "inline",
+      "pdf_url": "",
+      "content_text": "",
+      "technical_specs": [
+        {
+          "label": "Référence",
+          "unit": "",
+          "value": "4010800"
+        },
+        {
+          "label": "EAN",
+          "unit": "",
+          "value": "4006825642339"
+        },
+        {
+          "label": "Débit d'air à 0 bar",
+          "unit": "l/min",
+          "value": "230"
+        },
+        {
+          "label": "Débit d'air à 4 bar",
+          "unit": "l/min",
+          "value": "210"
+        },
+        {
+          "label": "Débit d'air à 7 bar",
+          "unit": "l/min",
+          "value": "200"
+        },
+        {
+          "label": "Modèle de moteur",
+          "unit": "",
+          "value": "Moteur à induction"
+        },
+        {
+          "label": "Niveau de pression acoustique",
+          "unit": "dB (A)",
+          "value": "73"
+        },
+        {
+          "label": "Puissance du moteur",
+          "unit": "W",
+          "value": "3000"
+        },
+        {
+          "label": "Nombres de cylindres",
+          "unit": "pcs",
+          "value": "4"
+        },
+        {
+          "label": "Poids du produit",
+          "unit": "Kg",
+          "value": "68.35"
+        },
+        {
+          "label": "Pression de service max.",
+          "unit": "bar",
+          "value": "10"
+        },
+        {
+          "label": "Puissance d'aspiration",
+          "unit": "l/min",
+          "value": "430"
+        },
+        {
+          "label": "Régime de la pompe",
+          "unit": "tr/min",
+          "value": "1020"
+        },
+        {
+          "label": "Régime moteur",
+          "unit": "tr/min",
+          "value": "2850"
+        },
+        {
+          "label": "Volume du réservoir",
+          "unit": "l",
+          "value": "90"
+        }
+      ]
+    },
+    "related_products": []
+  },
+  {
+    "url": "",
+    "name": "Accessory set 5 pcs",
+    "subtitle": "Kit compresseur 5 accessoires",
+    "main_image_url": "",
+    "image_urls": [],
+    "categories": [
+      "Outillage",
+      "Compresseurs",
+      "Accessoires compresseurs"
+    ],
+    "tags": [
+      "Accessoire",
+      "Kit 5 pièces",
+      "0-8 bar",
+      "Flexible 4m"
+    ],
+    "description_text": "Kit à air comprimé professionnel 5 accessoires compatible avec tous les compresseurs courants. Convient aux compresseurs avec une pression de fonctionnement de 0 à 8 bar. Pistolet pulvérisateur pour la vaporisation d'huiles légères et de produits nettoyants. Pistolet à peinture pour l'application de peintures et de laques. Pistolet à air pour le nettoyage de surfaces et d'espaces de travail. Pistolet de gonflage pneumatique à manomètre pour le contrôle de la pression et le gonflage des pneus. Flexible à air comprimé de 4 m et de diamètre intérieur 6 mm. Raccord rapide facilitant le changement d'accessoire inclus.",
+    "bullet_points": [
+      "Kit à air comprimé professionnel 5 accessoires compatible avec tous les compresseurs courants",
+      "Convient aux compresseurs avec une pression de fonctionnement de 0 à 8 bar",
+      "Pistolet pulvérisateur pour la vaporisation d'huiles légères et de produits nettoyants",
+      "Pistolet à peinture pour l'application de peintures et de laques",
+      "Pistolet à air pour le nettoyage de surfaces et d'espaces de travail",
+      "Pistolet de gonflage pneumatique à manomètre pour le contrôle de la pression et le gonflage des pneus",
+      "Flexible à air comprimé de 4 m et de diamètre intérieur 6 mm",
+      "Raccord rapide facilitant le changement d'accessoire inclus"
+    ],
+    "technical_sheet": {
+      "type": "inline",
+      "pdf_url": "",
+      "content_text": "",
+      "technical_specs": [
+        {
+          "label": "Référence",
+          "unit": "",
+          "value": "4132720"
+        },
+        {
+          "label": "EAN",
+          "unit": "",
+          "value": "4006825410020"
+        },
+        {
+          "label": "Diamètre intérieur du tuyau d'air comprimé",
+          "unit": "mm",
+          "value": "6"
+        },
+        {
+          "label": "Longueur du flexible à air comprimé",
+          "unit": "cm",
+          "value": "400"
+        },
+        {
+          "label": "Matériau tuyau d'air comprimé",
+          "unit": "",
+          "value": "Carton d'emballage"
+        },
+        {
+          "label": "Pression de service max.",
+          "unit": "bar",
+          "value": "8"
+        }
+      ]
+    },
+    "related_products": []
+  },
+  {
+    "url": "",
+    "name": "TC-AC 190/6/8 OF",
+    "subtitle": "Compresseur 6L 8 bar sans huile portable",
+    "main_image_url": "",
+    "image_urls": [],
+    "categories": [
+      "Outillage",
+      "Compresseurs",
+      "Compresseurs sans huile"
+    ],
+    "tags": [
+      "6L",
+      "8 bar",
+      "Sans huile",
+      "Portable",
+      "Compact"
+    ],
+    "description_text": "Compresseur portable sans huile avec réservoir de 6 litres. Pompe sans huile pour un entretien réduit. Pression maximale de 8 bar. Design compact et portable pour une utilisation mobile. Régulateur de pression intégré. Manomètre pour contrôle de la pression. Poignée de transport ergonomique. Pieds anti-vibrations pour une stabilité optimale. Idéal pour les petits travaux et l'utilisation occasionnelle.",
+    "bullet_points": [
+      "Compresseur portable sans huile avec réservoir de 6 litres",
+      "Pompe sans huile pour un entretien réduit",
+      "Pression maximale de 8 bar",
+      "Design compact et portable pour une utilisation mobile",
+      "Régulateur de pression intégré",
+      "Manomètre pour contrôle de la pression",
+      "Poignée de transport ergonomique",
+      "Pieds anti-vibrations pour une stabilité optimale",
+      "Idéal pour les petits travaux et l'utilisation occasionnelle"
+    ],
+    "technical_sheet": {
+      "type": "inline",
+      "pdf_url": "",
+      "content_text": "",
+      "technical_specs": [
+        {
+          "label": "Volume du réservoir",
+          "unit": "l",
+          "value": "6"
+        },
+        {
+          "label": "Pression de service max.",
+          "unit": "bar",
+          "value": "8"
+        },
+        {
+          "label": "Type",
+          "unit": "",
+          "value": "Sans huile"
+        }
+      ]
+    },
+    "related_products": []
+  },
+  {
+    "url": "",
+    "name": "TC-AC 400/50/8 OF",
+    "subtitle": "Compresseur 50L 8 bar sans huile bi-cylindre",
+    "main_image_url": "",
+    "image_urls": [],
+    "categories": [
+      "Outillage",
+      "Compresseurs",
+      "Compresseurs sans huile"
+    ],
+    "tags": [
+      "50L",
+      "8 bar",
+      "Sans huile",
+      "Bi-cylindre",
+      "Roues"
+    ],
+    "description_text": "Compresseur bi-cylindre sans huile avec réservoir de 50 litres. Pompe sans huile bi-cylindre pour un entretien minimal et un débit élevé. Pression maximale de 8 bar. Réservoir de 50 litres pour des réserves d'air importantes. Régulateur de pression pour applications multiples. Manomètres pour pression régulée et non régulée. Roues et poignée pour transport facile. Pieds anti-vibrations pour stabilité. Clapet anti-retour et soupape de sécurité. Robinet de vidange pour entretien facile.",
+    "bullet_points": [
+      "Compresseur bi-cylindre sans huile avec réservoir de 50 litres",
+      "Pompe sans huile bi-cylindre pour un entretien minimal et un débit élevé",
+      "Pression maximale de 8 bar",
+      "Réservoir de 50 litres pour des réserves d'air importantes",
+      "Régulateur de pression pour applications multiples",
+      "Manomètres pour pression régulée et non régulée",
+      "Roues et poignée pour transport facile",
+      "Pieds anti-vibrations pour stabilité",
+      "Clapet anti-retour et soupape de sécurité",
+      "Robinet de vidange pour entretien facile"
+    ],
+    "technical_sheet": {
+      "type": "inline",
+      "pdf_url": "",
+      "content_text": "",
+      "technical_specs": [
+        {
+          "label": "Volume du réservoir",
+          "unit": "l",
+          "value": "50"
+        },
+        {
+          "label": "Pression de service max.",
+          "unit": "bar",
+          "value": "8"
+        },
+        {
+          "label": "Nombres de cylindres",
+          "unit": "pcs",
+          "value": "2"
+        },
+        {
+          "label": "Type",
+          "unit": "",
+          "value": "Sans huile"
+        }
+      ]
+    },
+    "related_products": []
+  }
+]

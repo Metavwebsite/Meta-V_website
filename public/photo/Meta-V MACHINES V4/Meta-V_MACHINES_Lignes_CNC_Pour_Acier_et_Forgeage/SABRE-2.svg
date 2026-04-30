@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 80 80" style="enable-background:new 0 0 80 80;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000078038559022439326030000013210981265198118035_);fill:#575756;}
+	.st1{clip-path:url(#SVGID_00000145034923705261525130000001837442619260667017_);fill:#575756;}
+	.st2{fill:#575756;}
+	.st3{enable-background:new    ;}
+	.st4{fill:#FFFFFF;}
+</style>
+<g>
+	<g>
+		<g>
+			<defs>
+				<rect id="SVGID_1_" y="0" width="80" height="80"/>
+			</defs>
+			<clipPath id="SVGID_00000060734083838471662790000013445498043602181821_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			<path style="clip-path:url(#SVGID_00000060734083838471662790000013445498043602181821_);fill:#575756;" d="M80,40
+				c0,22.1-17.9,40-40,40S0,62.1,0,40S17.9,0,40,0S80,17.9,80,40"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<defs>
+				<rect id="SVGID_00000002364654288721199920000014397191053775754902_" y="0" width="80" height="80"/>
+			</defs>
+			<clipPath id="SVGID_00000142866942575139384670000012046427088740166586_">
+				<use xlink:href="#SVGID_00000002364654288721199920000014397191053775754902_"  style="overflow:visible;"/>
+			</clipPath>
+			<path style="clip-path:url(#SVGID_00000142866942575139384670000012046427088740166586_);fill:#575756;" d="M80,40
+				c0,22.1-17.9,40-40,40S0,62.1,0,40S17.9,0,40,0S80,17.9,80,40"/>
+		</g>
+	</g>
+</g>
+<rect x="38.6" y="56.8" class="st2" width="4.5" height="11.5"/>
+<g id="Page-1">
+	<g id="_x30_3b_x5F_single-v2-tab2" transform="translate(-672.000000, -1488.000000)">
+		<g id="Group-4" transform="translate(672.000000, 1488.000000)">
+			<g id="Group-Copy-4">
+				<g id="Oval-Copy">
+					<path class="st2" d="M40,80C17.9,80,0,62.1,0,40S17.9,0,40,0s40,17.9,40,40S62.1,80,40,80z M40,5C20.7,5,5,20.7,5,40
+						s15.7,35,35,35s35-15.7,35-35S59.3,5,40,5z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<g class="st3">
+		<g>
+			<g>
+				
+					<rect x="37.8" y="46.6" transform="matrix(0.9583 -0.2858 0.2858 0.9583 -11.7183 14.0852)" class="st4" width="9.1" height="1.3"/>
+				
+					<rect x="26.5" y="35.8" transform="matrix(0.1621 -0.9868 0.9868 0.1621 -9.9633 61.1335)" class="st4" width="9.1" height="1.3"/>
+			</g>
+			<g>
+				<path class="st4" d="M50.8,30.9c-2.9,0-5.3-2.4-5.3-5.3s2.4-5.3,5.3-5.3c2.9,0,5.3,2.4,5.3,5.3S53.7,30.9,50.8,30.9 M60.8,20.7
+					L55.1,21c-1.1-1.1-2.7-1.8-4.3-1.8c-3.4,0-6.2,2.7-6.4,6.1l-7,8.3L34,42.4l3,1.4l4-7.8l7.2-4.6C49,31.7,50,32,50.9,32
+					c2.2,0,4.2-1.1,5.3-2.9H61L60.8,20.7L60.8,20.7z"/>
+				<path class="st4" d="M36.1,54.5c-0.6-5.7-5.1-10.4-10.9-11.2V19.2H19v41.5h41.8v-6.2H36.1z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 80 80" style="enable-background:new 0 0 80 80;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#AAAAAA;}
+	.st1{clip-path:url(#SVGID_00000039115774538624640760000012527751455692553358_);}
+	.st2{clip-path:url(#SVGID_00000020388372921762113160000000352280357201321859_);}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#575756;}
+</style>
+<circle class="st0" cx="40" cy="40" r="38.8"/>
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M79.7,40c0,22-17.8,39.9-39.7,39.9S0.3,62,0.3,40S18.1,0.1,40,0.1S79.7,18,79.7,40"/>
+	</defs>
+	<defs>
+		<path id="SVGID_00000145019696731246053520000003604421460511970713_" d="M79.7,40c0,22-17.8,39.9-39.7,39.9S0.3,62,0.3,40
+			S18.1,0.1,40,0.1S79.7,18,79.7,40"/>
+	</defs>
+	<clipPath id="SVGID_00000011742894099166021850000013971470420580298166_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	
+		<clipPath id="SVGID_00000093170069076025349430000003635096730196069817_" style="clip-path:url(#SVGID_00000011742894099166021850000013971470420580298166_);">
+		<use xlink:href="#SVGID_00000145019696731246053520000003604421460511970713_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_00000093170069076025349430000003635096730196069817_);">
+		
+			<rect x="16.8" y="10.1" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 67.1578 -12.8422)" class="st3" width="46.4" height="34.2"/>
+		<polygon class="st3" points="15.6,88.3 40,22 64.4,88.3 		"/>
+		<rect x="-10.2" y="22" class="st3" width="100.4" height="18.8"/>
+		<rect x="27.7" y="64.4" class="st4" width="24.5" height="4.9"/>
+		<g>
+			<polygon class="st4" points="24.6,47.2 24.6,34 19.7,34 19.7,48.6 19.7,48.6 19.7,48.6 27.5,61 31.7,58.4 			"/>
+			<polygon class="st4" points="55.4,47.2 55.4,34 60.3,34 60.3,48.6 60.3,48.6 60.3,48.6 52.5,61 48.3,58.4 			"/>
+		</g>
+		<path class="st0" d="M90.2,0.4H-10.2v25.9h34c1.8,0,3.3,1.5,3.3,3.3v32.6H53V29.6c0-1.8,1.5-3.3,3.3-3.3h34V0.4z"/>
+	</g>
+</g>
+<g id="Page-1">
+	<g id="_x30_3b_x5F_single-v2-tab2" transform="translate(-672.000000, -1488.000000)">
+		<g id="Group-4" transform="translate(672.000000, 1488.000000)">
+			<g id="Group-Copy-4">
+				<g id="Oval-Copy">
+					<path class="st4" d="M40,80C17.9,80,0,62.1,0,40S17.9,0,40,0s40,17.9,40,40S62.1,80,40,80z M40,5C20.7,5,5,20.7,5,40
+						s15.7,35,35,35s35-15.7,35-35S59.3,5,40,5z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<rect x="360.3" y="-12" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 634.3593 -280.7421)" class="st4" width="30" height="6"/>
+</svg>

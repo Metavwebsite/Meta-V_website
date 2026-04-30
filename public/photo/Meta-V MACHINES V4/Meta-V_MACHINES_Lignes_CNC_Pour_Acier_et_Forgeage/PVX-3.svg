@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="31px" viewBox="0 0 31 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 11</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03b_single-v2-tab3" transform="translate(-786.000000, -893.000000)">
+            <g id="Group-11" transform="translate(786.000000, 893.000000)">
+                <g id="Group-8">
+                    <polygon id="Path" points="0 0 31 0 31 31 0 31"></polygon>
+                    <circle id="Oval" fill="#00665B" fill-rule="nonzero" cx="15.5" cy="12.5" r="3.5"></circle>
+                </g>
+                <path d="M15,3 C10.0242857,3 6,7.069 6,12.1 C6,18.925 15,29 15,29 C15,29 24,18.925 24,12.1 C24,7.069 19.9757143,3 15,3 Z M8.57142857,12.1 C8.57142857,8.512 11.4514286,5.6 15,5.6 C18.5485714,5.6 21.4285714,8.512 21.4285714,12.1 C21.4285714,15.844 17.7257143,21.447 15,24.944 C12.3257143,21.473 8.57142857,15.805 8.57142857,12.1 Z" id="Shape" fill="#00665B" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

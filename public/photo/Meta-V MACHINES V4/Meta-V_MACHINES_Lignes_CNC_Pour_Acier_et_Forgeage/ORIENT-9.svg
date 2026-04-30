@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 80 80" style="enable-background:new 0 0 80 80;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000155140401692379579130000014996861452184095152_);fill:#575756;}
+	.st1{clip-path:url(#SVGID_00000052789462218932988760000013891600947282513292_);fill:#FFFFFF;}
+	.st2{clip-path:url(#SVGID_00000005235750841114335440000012893876476937717944_);fill:#FFFFFF;}
+	.st3{clip-path:url(#SVGID_00000142874984271872891780000017481098420964734132_);fill:#FFFFFF;}
+	.st4{fill:#575756;}
+</style>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" y="0" width="80" height="80"/>
+		</defs>
+		<clipPath id="SVGID_00000000188485234865686810000008637454285727588498_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<path style="clip-path:url(#SVGID_00000000188485234865686810000008637454285727588498_);fill:#575756;" d="M80,40
+			c0,22.1-17.9,40-40,40S0,62.1,0,40S17.9,0,40,0S80,17.9,80,40"/>
+	</g>
+</g>
+<g>
+	<g>
+		<defs>
+			<circle id="SVGID_00000152964860646076661740000004933621504873592766_" cx="40" cy="40" r="40"/>
+		</defs>
+		<clipPath id="SVGID_00000011021638865952602960000015388631821564963006_">
+			<use xlink:href="#SVGID_00000152964860646076661740000004933621504873592766_"  style="overflow:visible;"/>
+		</clipPath>
+		<polygon style="clip-path:url(#SVGID_00000011021638865952602960000015388631821564963006_);fill:#FFFFFF;" points="51.2,12.8 
+			51.2,0 30.6,0 30.6,12.8 36.5,12.8 36.5,38.5 45.3,38.5 45.3,12.8 		"/>
+	</g>
+	<g>
+		<defs>
+			<circle id="SVGID_00000013164063344783356780000014952413409792560540_" cx="40" cy="40" r="40"/>
+		</defs>
+		<clipPath id="SVGID_00000175317823076051572360000008115876199691195280_">
+			<use xlink:href="#SVGID_00000013164063344783356780000014952413409792560540_"  style="overflow:visible;"/>
+		</clipPath>
+		<polygon style="clip-path:url(#SVGID_00000175317823076051572360000008115876199691195280_);fill:#FFFFFF;" points="36.5,40.7 
+			39.9,45.9 39.9,53.1 41.8,53.1 41.8,45.9 45.3,40.7 		"/>
+	</g>
+	<g>
+		<defs>
+			<circle id="SVGID_00000103248953978978569080000004822901615919836071_" cx="40" cy="40" r="40"/>
+		</defs>
+		<clipPath id="SVGID_00000128472290418082450930000013066222690067958690_">
+			<use xlink:href="#SVGID_00000103248953978978569080000004822901615919836071_"  style="overflow:visible;"/>
+		</clipPath>
+		
+			<rect x="-7.4" y="61.9" style="clip-path:url(#SVGID_00000128472290418082450930000013066222690067958690_);fill:#FFFFFF;" width="103.7" height="6.4"/>
+	</g>
+</g>
+<g id="Page-1">
+	<g id="_x30_3b_x5F_single-v2-tab2" transform="translate(-672.000000, -1488.000000)">
+		<g id="Group-4" transform="translate(672.000000, 1488.000000)">
+			<g id="Group-Copy-4">
+				<g id="Oval-Copy">
+					<path class="st4" d="M40,80C17.9,80,0,62.1,0,40S17.9,0,40,0s40,17.9,40,40S62.1,80,40,80z M40,5C20.7,5,5,20.7,5,40
+						s15.7,35,35,35s35-15.7,35-35S59.3,5,40,5z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

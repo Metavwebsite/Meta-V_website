@@ -1,0 +1,479 @@
+[
+  {
+    "url": "",
+    "name": "TC-PG 10/E5",
+    "subtitle": "Groupe électrogène essence 800W",
+    "main_image_url": "",
+    "image_urls": [],
+    "categories": [
+      "Outillage",
+      "Groupes Electrogènes",
+      "Groupes essence"
+    ],
+    "tags": [
+      "800W",
+      "Essence",
+      "2 temps",
+      "1 prise 230V",
+      "4L"
+    ],
+    "description_text": "Groupe électrogène essence 800W avec moteur 2 temps puissant et robuste. Une prise 230V qui alimente un consommateur en électricité. Cadre de transport pour protéger l'appareil et faciliter le transport. Pieds stables pour une stabilité sûre pendant le fonctionnement. Interrupteur de surcharge pour protéger la prise en cas de surcharge. Cordon de traction facile à utiliser pour le démarrage. Réservoir de 4 litres. Durée de fonctionnement à 2/3 de charge : 6,6 heures. Puissance max. continue de 680W.",
+    "bullet_points": [
+      "Moteur à 2 temps puissant et robuste",
+      "Une prise 230V qui alimente un consommateur en électricité",
+      "Cadre de transport pour protéger l'appareil et faciliter le transport",
+      "Pieds stables pour une stabilité sûre pendant le fonctionnement",
+      "Interrupteur de surcharge pour protéger la prise en cas de surcharge",
+      "Cordon de traction facile à utiliser pour le démarrage"
+    ],
+    "technical_sheet": {
+      "type": "inline",
+      "pdf_url": "",
+      "content_text": "",
+      "technical_specs": [
+        {
+          "label": "Numéro d'article",
+          "unit": "",
+          "value": "4152535"
+        },
+        {
+          "label": "EAN",
+          "unit": "",
+          "value": "4006825648027"
+        },
+        {
+          "label": "Nombre de prises 230 V",
+          "unit": "pièce",
+          "value": "1"
+        },
+        {
+          "label": "Durée de fonctionnement à 2/3 de charge",
+          "unit": "heures",
+          "value": "6.6"
+        },
+        {
+          "label": "Puissance max. continue",
+          "unit": "W",
+          "value": "680"
+        },
+        {
+          "label": "Performances maximales",
+          "unit": "W",
+          "value": "800"
+        },
+        {
+          "label": "Poids du produit",
+          "unit": "kg",
+          "value": "18.8"
+        },
+        {
+          "label": "Capacité du réservoir",
+          "unit": "l",
+          "value": "4"
+        },
+        {
+          "label": "Générateur de type",
+          "unit": "",
+          "value": "Synchrone"
+        }
+      ]
+    },
+    "related_products": []
+  },
+  {
+    "url": "",
+    "name": "TC-PG 25/1/E5",
+    "subtitle": "Groupe électrogène essence 2400W",
+    "main_image_url": "",
+    "image_urls": [],
+    "categories": [
+      "Outillage",
+      "Groupes Electrogènes",
+      "Groupes essence"
+    ],
+    "tags": [
+      "2400W",
+      "Essence",
+      "4 temps",
+      "2 prises 230V",
+      "15L",
+      "AVR",
+      "Emission 5"
+    ],
+    "description_text": "Groupe électrogène essence 2400W avec moteur 4 temps puissant, robuste et propre. Moteur à faibles émissions grâce au respect de la réglementation Emission 5. Deux prises 230V dont un voltmètre qui indique la tension. Grand réservoir de 15 L avec indicateur de niveau pour un fonctionnement continu. Interrupteur de surcharge et protection du niveau d'huile pour un fonctionnement durable. Fonction AVR pour une puissance de sortie stable. Cordon de traction facile à utiliser pour le démarrage. Durée de fonctionnement à 2/3 de charge : 12,5 heures. Puissance max. continue de 2100W.",
+    "bullet_points": [
+      "Moteur à 4 temps puissant, robuste et propre",
+      "Moteur à faibles émissions grâce au respect de la réglementation Emission 5",
+      "Deux prises 230V dont un voltmètre qui indique la tension",
+      "Grand réservoir de 15 L avec indicateur de niveau pour un fonctionnement continu",
+      "Interrupteur de surcharge et protection du niveau d'huile pour un fonctionnement durable",
+      "Fonction AVR pour une puissance de sortie stable",
+      "Cordon de traction facile à utiliser pour le démarrage"
+    ],
+    "technical_sheet": {
+      "type": "inline",
+      "pdf_url": "",
+      "content_text": "",
+      "technical_specs": [
+        {
+          "label": "Numéro d'article",
+          "unit": "",
+          "value": "4152600"
+        },
+        {
+          "label": "EAN",
+          "unit": "",
+          "value": "4006825657319"
+        },
+        {
+          "label": "Nombre de prises 230 V",
+          "unit": "pièces",
+          "value": "2"
+        },
+        {
+          "label": "Durée de fonctionnement à 2/3 de charge",
+          "unit": "heures",
+          "value": "12.5"
+        },
+        {
+          "label": "Puissance max. continue",
+          "unit": "W",
+          "value": "2100"
+        },
+        {
+          "label": "Performances maximales",
+          "unit": "W",
+          "value": "2400"
+        },
+        {
+          "label": "Poids du produit",
+          "unit": "kg",
+          "value": "36.82"
+        },
+        {
+          "label": "Capacité du réservoir",
+          "unit": "l",
+          "value": "15"
+        },
+        {
+          "label": "Générateur de type",
+          "unit": "",
+          "value": "Synchrone"
+        }
+      ]
+    },
+    "related_products": []
+  },
+  {
+    "url": "",
+    "name": "TC-PG 35/E5",
+    "subtitle": "Groupe électrogène essence 3100W",
+    "main_image_url": "",
+    "image_urls": [],
+    "categories": [
+      "Outillage",
+      "Groupes Electrogènes",
+      "Groupes essence"
+    ],
+    "tags": [
+      "3100W",
+      "Essence",
+      "4 temps",
+      "2 prises 230V",
+      "15L",
+      "AVR",
+      "Roues"
+    ],
+    "description_text": "Groupe électrogène essence 3100W avec moteur 4 temps puissant, robuste et propre. Deux prises 230V dont un voltmètre qui indique la tension. Deux grandes roues et une poignée pliable pour un transport facile. Grand réservoir de 15 L avec indicateur de niveau pour un fonctionnement continu. Interrupteur de surcharge et protection du niveau d'huile pour un fonctionnement durable. Fonction AVR pour une puissance de sortie stable. Cordon de traction facile à utiliser pour le démarrage. Durée de fonctionnement à 2/3 de charge : 10,7 heures. Puissance max. continue de 2600W.",
+    "bullet_points": [
+      "Moteur à 4 temps puissant, robuste et propre",
+      "Deux prises 230V dont un voltmètre qui indique la tension",
+      "Deux grandes roues et une poignée pliable pour un transport facile",
+      "Grand réservoir de 15 L avec indicateur de niveau pour un fonctionnement continu",
+      "Interrupteur de surcharge et protection du niveau d'huile pour un fonctionnement durable",
+      "Fonction AVR pour une puissance de sortie stable",
+      "Cordon de traction facile à utiliser pour le démarrage"
+    ],
+    "technical_sheet": {
+      "type": "inline",
+      "pdf_url": "",
+      "content_text": "",
+      "technical_specs": [
+        {
+          "label": "Numéro d'article",
+          "unit": "",
+          "value": "4152551"
+        },
+        {
+          "label": "EAN",
+          "unit": "",
+          "value": "4006825644142"
+        },
+        {
+          "label": "Nombre de prises 230 V",
+          "unit": "pièces",
+          "value": "2"
+        },
+        {
+          "label": "Durée de fonctionnement à 2/3 de charge",
+          "unit": "heures",
+          "value": "10.7"
+        },
+        {
+          "label": "Puissance max. continue",
+          "unit": "W",
+          "value": "2600"
+        },
+        {
+          "label": "Performances maximales",
+          "unit": "W",
+          "value": "3100"
+        },
+        {
+          "label": "Poids du produit",
+          "unit": "kg",
+          "value": "41.25"
+        },
+        {
+          "label": "Capacité du réservoir",
+          "unit": "l",
+          "value": "15"
+        },
+        {
+          "label": "Générateur de type",
+          "unit": "",
+          "value": "Synchrone"
+        }
+      ]
+    },
+    "related_products": []
+  },
+  {
+    "url": "",
+    "name": "TC-PG 55/E5",
+    "subtitle": "Groupe électrogène essence 5500W",
+    "main_image_url": "",
+    "image_urls": [],
+    "categories": [
+      "Outillage",
+      "Groupes Electrogènes",
+      "Groupes essence"
+    ],
+    "tags": [
+      "5500W",
+      "Essence",
+      "4 temps",
+      "230V/400V",
+      "25L",
+      "Démarrage électrique",
+      "Batterie"
+    ],
+    "description_text": "Groupe électrogène essence 5500W avec moteur 4 temps puissant, robuste et propre. Deux consommateurs 230 V ou un consommateur 400 V peuvent être alimentés. Deux grandes roues et une poignée pliable pour un transport facile. Grand réservoir de 25 L avec indicateur de niveau pour un fonctionnement continu. Interrupteur de surcharge, protection contre le manque d'huile et fonction AVR. Démarrage électrique convivial fourni avec batterie de démarrage. Durée de fonctionnement à 2/3 de charge : 11,7 heures. Puissance max. continue de 5000W.",
+    "bullet_points": [
+      "Moteur à 4 temps puissant, robuste et propre",
+      "Deux consommateurs 230 V ou un consommateur 400 V peuvent être alimentés",
+      "Deux grandes roues et une poignée pliable pour un transport facile",
+      "Grand réservoir de 25 L avec indicateur de niveau pour un fonctionnement continu",
+      "Interrupteur de surcharge, protection contre le manque d'huile et fonction AVR",
+      "Démarrage électrique convivial fourni avec batterie de démarrage"
+    ],
+    "technical_sheet": {
+      "type": "inline",
+      "pdf_url": "",
+      "content_text": "",
+      "technical_specs": [
+        {
+          "label": "Numéro d'article",
+          "unit": "",
+          "value": "4152562"
+        },
+        {
+          "label": "EAN",
+          "unit": "",
+          "value": "4006825644159"
+        },
+        {
+          "label": "Nombre de prises 230 V",
+          "unit": "pièces",
+          "value": "2"
+        },
+        {
+          "label": "Nombre de prises 400 V",
+          "unit": "pièce",
+          "value": "1"
+        },
+        {
+          "label": "Durée de fonctionnement à 2/3 de charge",
+          "unit": "heures",
+          "value": "11.7"
+        },
+        {
+          "label": "Puissance max. continue",
+          "unit": "W",
+          "value": "5000"
+        },
+        {
+          "label": "Performances maximales",
+          "unit": "W",
+          "value": "5500"
+        },
+        {
+          "label": "Poids du produit",
+          "unit": "kg",
+          "value": "80.4"
+        },
+        {
+          "label": "Capacité du réservoir",
+          "unit": "l",
+          "value": "25"
+        },
+        {
+          "label": "Générateur de type",
+          "unit": "",
+          "value": "Synchrone"
+        }
+      ]
+    },
+    "related_products": []
+  },
+  {
+    "url": "",
+    "name": "TC-PG 65/E5",
+    "subtitle": "Groupe électrogène essence 6500W",
+    "main_image_url": "",
+    "image_urls": [],
+    "categories": [
+      "Outillage",
+      "Groupes Electrogènes",
+      "Groupes essence"
+    ],
+    "tags": [
+      "6500W",
+      "Essence",
+      "4 temps",
+      "230V/400V",
+      "25L",
+      "Démarrage électrique",
+      "Batterie"
+    ],
+    "description_text": "Groupe électrogène essence 6500W avec moteur 4 temps puissant, robuste et propre. Deux consommateurs 230 V ou un consommateur 400 V peuvent être alimentés. Deux grandes roues et une poignée pliable pour un transport facile. Grand réservoir de 25 L avec indicateur de niveau pour un fonctionnement continu. Interrupteur de surcharge, protection contre le manque d'huile et fonction AVR. Démarrage électrique convivial fourni avec batterie de démarrage. Durée de fonctionnement à 2/3 de charge : 11,7 heures. Puissance max. continue de 6000W.",
+    "bullet_points": [
+      "Moteur à 4 temps puissant, robuste et propre",
+      "Deux consommateurs 230 V ou un consommateur 400 V peuvent être alimentés",
+      "Deux grandes roues et une poignée pliable pour un transport facile",
+      "Grand réservoir de 25 L avec indicateur de niveau pour un fonctionnement continu",
+      "Interrupteur de surcharge, protection contre le manque d'huile et fonction AVR",
+      "Démarrage électrique convivial fourni avec batterie de démarrage"
+    ],
+    "technical_sheet": {
+      "type": "inline",
+      "pdf_url": "",
+      "content_text": "",
+      "technical_specs": [
+        {
+          "label": "Numéro d'article",
+          "unit": "",
+          "value": "4152610"
+        },
+        {
+          "label": "EAN",
+          "unit": "",
+          "value": "4006825659993"
+        },
+        {
+          "label": "Nombre de prises 230 V",
+          "unit": "pièces",
+          "value": "2"
+        },
+        {
+          "label": "Nombre de prises 400 V",
+          "unit": "pièce",
+          "value": "1"
+        },
+        {
+          "label": "Durée de fonctionnement à 2/3 de charge",
+          "unit": "heures",
+          "value": "11.7"
+        },
+        {
+          "label": "Puissance max. continue",
+          "unit": "W",
+          "value": "6000"
+        },
+        {
+          "label": "Performances maximales",
+          "unit": "W",
+          "value": "6500"
+        },
+        {
+          "label": "Poids du produit",
+          "unit": "kg",
+          "value": "82.63"
+        },
+        {
+          "label": "Capacité du réservoir",
+          "unit": "l",
+          "value": "25"
+        },
+        {
+          "label": "Générateur de type",
+          "unit": "",
+          "value": "Synchrone"
+        }
+      ]
+    },
+    "related_products": []
+  },
+  {
+    "url": "",
+    "name": "TC-PG 8000",
+    "subtitle": "Groupe électrogène essence 8000W",
+    "main_image_url": "",
+    "image_urls": [],
+    "categories": [
+      "Outillage",
+      "Groupes Electrogènes",
+      "Groupes essence"
+    ],
+    "tags": [
+      "8000W",
+      "Essence",
+      "4 temps",
+      "230V/400V",
+      "Démarrage électrique",
+      "Professionnel"
+    ],
+    "description_text": "Groupe électrogène essence 8000W avec moteur 4 temps puissant pour applications professionnelles. Deux consommateurs 230 V ou un consommateur 400 V peuvent être alimentés. Deux grandes roues et une poignée pliable pour un transport facile. Grand réservoir avec indicateur de niveau pour un fonctionnement continu. Interrupteur de surcharge, protection contre le manque d'huile et fonction AVR. Démarrage électrique convivial fourni avec batterie de démarrage. Modèle haute performance pour chantiers et utilisations intensives.",
+    "bullet_points": [
+      "Moteur à 4 temps puissant pour applications professionnelles",
+      "Deux consommateurs 230 V ou un consommateur 400 V peuvent être alimentés",
+      "Deux grandes roues et une poignée pliable pour un transport facile",
+      "Grand réservoir avec indicateur de niveau pour un fonctionnement continu",
+      "Interrupteur de surcharge, protection contre le manque d'huile et fonction AVR",
+      "Démarrage électrique convivial fourni avec batterie de démarrage"
+    ],
+    "technical_sheet": {
+      "type": "inline",
+      "pdf_url": "",
+      "content_text": "",
+      "technical_specs": [
+        {
+          "label": "Numéro d'article",
+          "unit": "",
+          "value": "41..."
+        },
+        {
+          "label": "Performances maximales",
+          "unit": "W",
+          "value": "8000"
+        },
+        {
+          "label": "Générateur de type",
+          "unit": "",
+          "value": "Synchrone"
+        }
+      ]
+    },
+    "related_products": []
+  }
+]

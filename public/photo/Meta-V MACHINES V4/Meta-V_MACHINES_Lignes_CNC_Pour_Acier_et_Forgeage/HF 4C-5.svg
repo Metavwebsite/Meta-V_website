@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 80 80" style="enable-background:new 0 0 80 80;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#575756;}
+	.st1{clip-path:url(#SVGID_00000164514743994660967500000010757686520183201949_);}
+	.st2{fill:#AAAAAA;}
+	.st3{fill:#FFFFFF;}
+</style>
+<g>
+	<path class="st0" d="M79.7,40c0,22.1-17.8,40-39.7,40S0.3,62.1,0.3,40S18.1,0,40,0S79.7,17.9,79.7,40"/>
+</g>
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M79.7,40c0,22.1-17.8,40-39.7,40S0.3,62.1,0.3,40S18.1,0,40,0S79.7,17.9,79.7,40"/>
+	</defs>
+	<clipPath id="SVGID_00000157299554562496398090000015586110920749570186_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_00000157299554562496398090000015586110920749570186_);">
+		<polygon class="st2" points="53.2,29 53.2,55.9 26.8,55.9 26.8,29 21.8,29 21.8,60.9 24.3,60.9 26.8,60.9 53.2,60.9 56.2,60.9 
+			58.2,60.9 58.2,29 		"/>
+		<g>
+			<path class="st3" d="M21.8,19.1H-7.9v5h29.7v5h5v-5C26.8,21.3,24.6,19.1,21.8,19.1z"/>
+			<path class="st3" d="M58.2,19.1c-2.7,0-5,2.2-5,5v5h5v-5h29.7v-5H58.2z"/>
+		</g>
+	</g>
+</g>
+<g id="Page-1">
+	<g id="_x30_3b_x5F_single-v2-tab2" transform="translate(-672.000000, -1488.000000)">
+		<g id="Group-4" transform="translate(672.000000, 1488.000000)">
+			<g id="Group-Copy-4">
+				<g id="Oval-Copy">
+					<path class="st0" d="M40,80C17.9,80,0,62.1,0,40S17.9,0,40,0s40,17.9,40,40S62.1,80,40,80z M40,5C20.7,5,5,20.7,5,40
+						s15.7,35,35,35s35-15.7,35-35S59.3,5,40,5z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

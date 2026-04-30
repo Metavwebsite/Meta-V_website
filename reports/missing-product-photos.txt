@@ -1,0 +1,7 @@
+﻿Total products: 1251
+Products with >=1 local image: 1250
+Products missing local image: 1
+
+[src-einhell-scies-et-tronconneuses-scies-tronconneuses-einhell-2026] missing 1/10 :: /photo/EINHELL/SCIES ET TRONCONNEUSES
+  - TE-PS 165
+

@@ -1,0 +1,253 @@
+Voici la liste complète des **182 produits** de la catégorie 
+**ALES SOUDAGE – Équipement LINCOLNELECTRIC**
+
+***
+
+## 1. Équipement de soudage (117 produits)
+
+### A. Équipement de soudage MIG (24)
+
+1. CITOLINE COMPACTS
+2. CITOSTEEL 250C & 250C PRO
+3. CITOSTEEL 320C & 320C PRO
+4. CITOSTEEL 355S
+5. CITOSTEEL 380C PRO
+6. CITOSTEEL 425S
+7. CITOSTEEL 450C PRO
+8. CITOSTEEL 505S
+9. DIGISTEEL 250C & 250C PRO
+10. DIGISTEEL 320C & 320C PRO
+11. DIGISTEEL 355S
+12. DIGISTEEL 380C PRO
+13. DIGISTEEL 425S
+14. DIGISTEEL 450C PRO
+15. DIGISTEEL 505S
+16. FILCORD COMPACTS
+17. POWERTEC® i250C
+18. POWERTEC® i320C
+19. POWERTEC® i350S
+20. POWERTEC® i380C
+21. POWERTEC® i420S
+22. POWERTEC® i450C
+23. POWERTEC® i500S
+24. QUICKMIG® COMPACTS
+
+***
+
+### B. Équipements de technologie avancée (15)
+
+
+**Soudage automatisé (1)**
+
+25. Power Wave® AC/DC 1000® SD
+
+**Soudage robotisé (4)**
+
+26. DIGIWAVE III 520 ROBOTICS
+27. Générateur robotisé Power Wave R450
+28. Modules de connectivité sans fil Power Wave®
+29. Modules de procédé Power Wave®
+
+**Soudage Semi-Automatique (11)**
+
+30. DIGIWAVE III 420
+31. DIGIWAVE III 520
+32. HYPERFILL®
+33. Modules de connectivité sans fil Power Wave®
+34. Modules de procédé Power Wave®
+35. PIPEFAB™ CE READY PAK
+36. Power Wave® 300C
+37. Power Wave® S500
+38. Power Wave® S700
+39. Torche coudée SP7
+40. Weld Sequencer™
+
+***
+
+### C. Générateurs multi-procédés (12)
+
+41. CITOMIG 185MP
+42. CITOMIG 210MP
+43. Flextec 350XP
+44. Flextec® 350X Construction
+45. Flextec® 350X PowerConnect (Export uniquement)
+46. Flextec® 650X (Export uniquement)
+47. SPEEDTEC® 180C
+48. SPEEDTEC® 200C
+49. SPEEDTEC® 215C
+50. SPEEDTEC® 320CP
+51. SPEEDTEC® 400SP
+52. SPEEDTEC® 500SP
+
+***
+
+### D. Générateurs TIG (64)
+
+53. Aspect® 200
+54. Aspect® 300
+55. CITOMIG 185MP
+56. CITOMIG 210MP
+57. CITOTIG 1600 HPF
+58. CITOTIG 1600 HPF – EXPLORATOR – PAK FR
+59. CITOTIG 1600 HPF – PAK FR
+60. CITOTIG 1800 FORCE
+61. CITOTIG 1800 FORCE – PAK FR
+62. CITOTIG 1800 FORCE PAK EB
+63. CITOTIG 1800 FORCE PAK RL
+64. CITOTIG 2200 FORCE
+65. CITOTIG 2200 FORCE – PAK FR
+66. CITOTIG 2200 FORCE – PAK W FR
+67. CITOTIG 315 AC/DC
+68. CITOTIG 315 AC/DC – PAK FR
+69. CITOTIG 315 AC/DC – PAK W FR
+70. CITOTIG 315 DC
+71. CITOTIG 315 DC – PAK FR
+72. CITOTIG 315 DC – PAK W FR
+73. CITOTIG 315 DC PAK-W EB
+74. CITOTIG 315 DC PAK-W RL
+75. CITOTIG 415 DC
+76. CITOTIG 415 DC – PAK FR
+77. CITOTIG 415 DC – PAK W FR
+78. CITOTIG 415 DC PAK-W EB
+79. CITOTIG 415 DC PAK-W RL
+80. Flextec® 350X PowerConnect (Export uniquement)
+81. Flextec® 500X
+82. Flextec® 650X (Export uniquement)
+83. Invertec® 175TP
+84. Invertec® 220TPX
+85. INVERTEC® 275TP
+86. Invertec® 300TPX
+87. Invertec® 400TPX
+88. Invertec® V160-T TIG Soudage
+89. PRESTOTIG 160 PFC
+90. PRESTOTIG 160 PFC – FURIOUS – PAK FR
+91. PRESTOTIG 160 PFC – PAK FR
+92. PRESTOTIG 180 FORCE
+93. PRESTOTIG 180 FORCE – FURIOUS – PAK FR
+94. PRESTOTIG 180 FORCE – PAK FR
+95. PRESTOTIG 180 FORCE PAK RL
+96. PRESTOTIG 220 FORCE
+97. PRESTOTIG 220 FORCE – PAK FR
+98. PRESTOTIG 220 FORCE – PAK W FR
+99. PRESTOTIG 315 AC/DC
+100. PRESTOTIG 315 AC/DC – PAK FR
+101. PRESTOTIG 315 AC/DC – PAK W FR
+102. PRESTOTIG 315 DC
+103. PRESTOTIG 315 DC – PAK FR
+104. PRESTOTIG 315 DC – PAK W FR
+105. PRESTOTIG 315 DC PAK-W EB
+106. PRESTOTIG 315 DC PAK-W RL
+107. PRESTOTIG 415 DC
+108. PRESTOTIG 415 DC – PAK FR
+109. PRESTOTIG 415 DC – PAK W FR
+110. SPEEDTEC® 180C
+111. SPEEDTEC® 200C
+112. SPEEDTEC® 215C
+113. SPEEDTEC® 320CP
+114. SPEEDTEC® 400SP
+115. SPEEDTEC® 500SP
+
+***
+
+### E. Groupes autonomes de soudage (9)
+
+116. Groupe autonome de soudage Outback® 145 (Kohler®)
+117. Outback® 185 Groupe autonome de soudage (Kohler®)
+118. Outback® 200
+119. Polarity Switch Vantage® 500-I (Perkins®)
+120. Vantage® 400 (Perkins®)
+121. Vantage® 400-I (Kubota®)
+122. Vantage® 410 (Kubota®) (conforme CE)
+123. Vantage® 500 (Deutz®)
+124. Vantage® 500-I RCD Ready (Perkins®)
+
+***
+
+## 2. Équipements de coupage (13 produits) 
+
+**Équipements pour le coupage plasma (12)** 
+
+125. CITOCUT 100
+126. Citocut 30K
+127. Citocut 45
+128. CITOCUT 60
+129. PRESTOJET 100
+130. Prestojet 30K
+131. Prestojet 45
+132. PRESTOJET 60
+133. Tomahawk® 1538
+134. TOMAHAWK® 30K
+135. Tomahawk® 375 AIR Plasma Cutter avec torche manuelle de 10 pieds (3,0 m)
+136. TOMAHAWK® 45
+
+
+
+***
+
+## 3. Grande Distribution (10 produits)
+
+137. BESTER 155-ND
+138. Bester 155-ND PAK
+139. BESTER 170-ND
+140. Bester 170-ND PAK
+141. BESTER 210-ND
+142. Bester 210-ND PAK
+143. Bester 215MP
+144. Bester 215MP *(variante)*
+145. BesterMIG 200-S
+146. BesterMIG 200-S *(variante)*
+
+***
+
+## 4. Torches (41 produits)
+
+### Torches MIG/MAG (24)
+
+147. LGS2 150 G
+148. LGS2 240 G
+149. LGS2 250 G
+150. LGS2 360 G
+151. LGS2 505 W
+152. LINCGUN® PROMIG™ 230T
+153. LINCGUN® PROMIG™ 270
+154. LINCGUN® PROMIG™ 300
+155. LINCGUN® PROMIG™ 300 UD – Refroidie air – 4m
+156. LINCGUN® PROMIG™ 330W
+157. LINCGUN® PROMIG™ 400
+158. LINCGUN® PROMIG™ 400W
+159. LINCGUN® PROMIG™ 500W
+160. LINCGUN® PROMIG™ 500W UD – Refroidie eau – 4m
+161. Magnum® 200 Welding
+162. Magnum® 300
+163. Magnum® 400 Welding Gun (035-045 liner)
+164. Magnum® 400 Welding Gun (052-1/16 liner)
+165. Magnum® PRO 250 – K2651-1,-2,-3,-4, Ready-Pak (Export uniquement)
+166. Magnum® PRO 500
+167. Magnum® PRO 550 – K2655-1,-2,-3,-4
+168. Magnum® PRO Curve 200
+169. Magnum® PRO Curve 300 – K2951-1,-2,-3,-4, Ready-Paks
+170. Magnum® PRO Curve 400
+
+### Torches Robotique (2) 
+
+171. Magnum® PRO
+172. Magnum® PRO External
+
+### Torches TIG (15)
+
+173. PROTIG 10
+174. PROTIG 10W
+175. PROTIG 20
+176. PROTIG 30
+177. PROTIG 35W
+178. PROTIG 40
+179. PROTIG 40W
+180. PTA-26 TIG Torch – K1783-1,-2,-3,-4 (Export uniquement)
+181. PTW-20 TIG Torch – K1784-3,-4 (Export uniquement)
+182. TIG-Mate™ 17 pack de démarrage de torche refroidi à air
+183. WTT2 17/17V
+184. WTT2 18 W
+185. WTT2 20 W
+186. WTT2 26/26V
+187. WTT2 9/9V
+

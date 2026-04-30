@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 80 80" style="enable-background:new 0 0 80 80;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#7A7D83;}
+	.st1{fill:#575756;}
+	.st2{clip-path:url(#SVGID_00000066480802893859687190000014313981783211011249_);fill:#FFFFFF;}
+	.st3{clip-path:url(#SVGID_00000080187271865310313380000010015966148257691529_);fill:#FFFFFF;}
+</style>
+<g>
+	<g>
+		<path class="st0" d="M80,40c0,22.1-17.9,40-40,40S0,62.1,0,40S17.9,0,40,0S80,17.9,80,40"/>
+		<path class="st1" d="M80,40c0,22.1-17.9,40-40,40S0,62.1,0,40S17.9,0,40,0S80,17.9,80,40"/>
+	</g>
+	<g>
+		<g>
+			<defs>
+				<circle id="SVGID_1_" cx="40" cy="40" r="40"/>
+			</defs>
+			<clipPath id="SVGID_00000129895115886468073840000001098089412302463418_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			<polygon style="clip-path:url(#SVGID_00000129895115886468073840000001098089412302463418_);fill:#FFFFFF;" points="50.1,20.4 
+				50.1,-0.2 29.8,-0.2 29.8,20.4 32.9,20.4 32.9,39.3 30.9,39.3 30.9,50.7 32.8,50.7 32.8,48.3 37.5,48.3 40,50.7 42.4,48.3 
+				47.1,48.3 47.1,50.7 49,50.7 49,39.3 47,39.3 47,20.4 			"/>
+		</g>
+		<g>
+			<defs>
+				<circle id="SVGID_00000104687174992022604460000003238726033455076757_" cx="40" cy="40" r="40"/>
+			</defs>
+			<clipPath id="SVGID_00000163049963136262404400000010681451451153997457_">
+				<use xlink:href="#SVGID_00000104687174992022604460000003238726033455076757_"  style="overflow:visible;"/>
+			</clipPath>
+			<polygon style="clip-path:url(#SVGID_00000163049963136262404400000010681451451153997457_);fill:#FFFFFF;" points="43.3,60.7 
+				40,62.9 36.6,60.7 -7.5,60.7 -7.5,65.2 94.4,65.2 94.4,60.7 			"/>
+		</g>
+	</g>
+</g>
+<g id="Page-1">
+	<g id="_x30_3b_x5F_single-v2-tab2" transform="translate(-672.000000, -1488.000000)">
+		<g id="Group-4" transform="translate(672.000000, 1488.000000)">
+			<g id="Group-Copy-4">
+				<g id="Oval-Copy">
+					<path class="st1" d="M40,80C17.9,80,0,62.1,0,40S17.9,0,40,0s40,17.9,40,40S62.1,80,40,80z M40,5C20.7,5,5,20.7,5,40
+						s15.7,35,35,35s35-15.7,35-35S59.3,5,40,5z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
