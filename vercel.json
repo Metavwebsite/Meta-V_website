@@ -1,6 +1,7 @@
 {
   "version": 2,
   "routes": [
+    { "src": "/assets/(.*)", "dest": "/api/[[...path]]" },
     { "handle": "filesystem" },
     { "src": "/(.*)", "dest": "/api/[[...path]]" }
   ]
