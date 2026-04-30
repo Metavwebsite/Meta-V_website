@@ -16,6 +16,9 @@ dist-ssr
 .nitro
 *.local
 
+# Vercel build artifact (copied from dist/client/assets)
+public/assets/
+
 # Wrangler / Cloudflare
 .wrangler/
 .dev.vars
